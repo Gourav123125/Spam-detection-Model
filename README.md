@@ -1,19 +1,8 @@
  📧 Spam Detection Model 🚀  
 
  📌 Overview  
-This project implements a **Spam Detection Model** using **Machine Learning (SVM)** to classify emails as **Spam (1) or Not Spam (0)**. It processes a dataset of email messages, cleans the text, extracts features, and trains a model to detect spam messages with high accuracy.  
+This project implements a **Spam Detection Model** using **Machine Learning (SVM)** to classify emails as **Spam (1) or Not Spam (0)**. It processes a dataset of email messages, cleans the text, extracts features, and trains a model to detect spam messages with high accuracy
 
----
-
- 📂 Project Structure  
-```
-📁 spam-detection/
-│── 📄 spam.csv           # Dataset (emails labeled as spam or ham)
-│── 📄 model.py           # Python ML Model (SVM)
-│── 📄 README.md          # Project documentation
-```
-
----
 
 ## ⚙️ Features  
 ✅ **Preprocessing:** Removes special characters, stopwords, and URLs.  
@@ -80,7 +69,7 @@ Feel free to **fork this repository**, improve the model, and submit a **pull re
 
 ## 📌 Author  
 👤 **Gourav Bhatia**  
-📧 Contact: [your-email@example.com]  
+📧 Contact: [gouravbh786@gmail.com]  
 
 ---
 
